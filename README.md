@@ -13,3 +13,4 @@ http://coding-journal.com/cisco-vpn-client-on-mac-os-x-10-6-you-dont-need-it/ <b
 https://www.unix-ag.uni-kl.de/~massar/bin/cisco-decode <br/>
 https://www.unix-ag.uni-kl.de/~massar/soft/cisco-decrypt.c <br/>
 https://github.com/artemkin/cisco-password-decoder <br/>
+https://faq.oit.gatech.edu/content/how-do-i-configure-os-x-integrated-ipsec-vpn-client <br/>
