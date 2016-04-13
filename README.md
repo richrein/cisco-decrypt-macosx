@@ -5,7 +5,6 @@ Decrypt is an unjustifyably strong word for the level of encription. It should r
 
 References that made this possible</br>
 http://brandonclapp.com/connecting-to-a-cisco-ipsec-vpn-on-mac-osx-with-a-pcf-file/ <br/>
-https://github.com/artemkin/cisco-password-decoder <br/>
 http://anders.com/guides/native-cisco-vpn-on-mac-os-x/ <br/>
 http://forums.macrumors.com/threads/vpn-connection-using-mac-os-xs-built-in-network-preferences.598541/ <br/>
 
